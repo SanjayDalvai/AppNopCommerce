@@ -1,0 +1,89 @@
+1625637540567	geckodriver	INFO	Listening on 127.0.0.1:52936
+1625637543614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sanjay\\AppData\\Local\\Temp\\rust_mozprofileyditlL"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1625637563866	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sanjay\\AppData\\Local\\Temp\\rust_mozprofileyditlL\\search.json.mozlz4", (void 0)))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Parent 5864, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625637585754	Marionette	INFO	Listening on port 52944
+1625637586828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625637593947	Marionette	INFO	Stopped listening on port 52944
+1625637596516	geckodriver	INFO	Listening on 127.0.0.1:53019
+1625637599391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sanjay\\AppData\\Local\\Temp\\rust_mozprofileDEKY6u"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1625637602433	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sanjay\\AppData\\Local\\Temp\\rust_mozprofileDEKY6u\\search.json.mozlz4", (void 0)))
+1625637609000	Marionette	INFO	Listening on port 53027
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1625637609269	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1625637625974	Marionette	INFO	Stopped listening on port 53027
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625638340022	geckodriver	INFO	Listening on 127.0.0.1:60063
+1625638343006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sanjay\\AppData\\Local\\Temp\\rust_mozprofileQU6n7b"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1625638346639	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sanjay\\AppData\\Local\\Temp\\rust_mozprofileQU6n7b\\search.json.mozlz4", (void 0)))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1625638352526	Marionette	INFO	Listening on port 60073
+1625638352758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625638358114	Marionette	INFO	Stopped listening on port 60073
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625638360473	geckodriver	INFO	Listening on 127.0.0.1:60118
+1625638363364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sanjay\\AppData\\Local\\Temp\\rust_mozprofilehWnS05"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1625638365751	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sanjay\\AppData\\Local\\Temp\\rust_mozprofilehWnS05\\search.json.mozlz4", (void 0)))
+1625638371999	Marionette	INFO	Listening on port 60126
+1625638372494	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1625638381980	Marionette	INFO	Stopped listening on port 60126
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
